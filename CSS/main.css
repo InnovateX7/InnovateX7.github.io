@@ -1,0 +1,59 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body,
+#map {
+    height: 94%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.heading {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 600px;
+}
+
+.logo {
+    width: 50px;
+    height:50px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 475px; 
+}
+
+.GroupMembers {
+    position: fixed;
+    bottom: 25px; 
+    right: 0;
+    text-align: right;
+    margin: 10px; 
+}
+.Department {
+    position: fixed;
+    bottom: 25px; 
+    left: 0;
+    text-align: right;
+    margin: 10px; 
+}
+.KU{
+
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    margin: 10px; 
+    text-align: right;
+}
+.copyright {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 10px; 
+    text-align: right;
+}
+
